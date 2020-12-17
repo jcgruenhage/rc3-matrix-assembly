@@ -1,2 +1,2 @@
-# world-map-starter-kit
+# world-map-starterkit
 
